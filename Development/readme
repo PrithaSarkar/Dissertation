@@ -1,1 +1,8 @@
-All source code related to the project shall be uploaded in this section.
+Data Availability Statement:
+Data used for the research is available at: https://drive.google.com/file/d/1WYvb3N-y27HX0Tum1jyj_YeB46_xy4OK/view?usp=sharing
+
+Code Availability Statement:
+All code related to the research is available at: https://colab.research.google.com/drive/1_68KgoyDN1w6K4nzdfPjaI-aoJOLTDy7?usp=sharing
+
+Due to the size of the data file, it was uploaded to personal Google Drive which was then mounted onto Colab+ Notebook and then the data was accessed. Anyone wanting 
+to run the code file or replicate the work must first change the path to access the data.
