@@ -5,5 +5,6 @@ Code Availability Statement:
 All code related to the research is available at: https://colab.research.google.com/drive/1_68KgoyDN1w6K4nzdfPjaI-aoJOLTDy7?usp=sharing
 
 Due to the size of the data file, it was uploaded to personal Google Drive which was then mounted onto Colab+ Notebook and then the data was accessed. Anyone wanting 
-to run the code file or replicate the work must first change the path 
-(https://colab.research.google.com/drive/1_68KgoyDN1w6K4nzdfPjaI-aoJOLTDy7#scrollTo=K5uDjXknB8UQ&line=2&uniqifier=1) to access the data.
+to run the code file or replicate the work must first change the path present at the following link to access the data.
+
+Cell link to change path: https://colab.research.google.com/drive/1_68KgoyDN1w6K4nzdfPjaI-aoJOLTDy7#scrollTo=K5uDjXknB8UQ&line=2&uniqifier=1
