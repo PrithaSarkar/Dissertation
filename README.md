@@ -1,3 +1,6 @@
+Factors Affecting Pull-Request Acceptance and their Potential to Guide Contributors of Open-Source Software Repository.
+-A dissertation presented in part fulfillment of the requirements of the Degree of Master of Science at the University of Glasgow.
+
 Data Availability Statement:
 A restricted version of the data used for the research was acquired from the authors of the project present at: https://github.com/zhangxunhui/new_pullreq_msr2020
 Therefore, it cannot be publicly shared. However, a different and unrestricted version of the data is publicly available at: https://zenodo.org/record/3922907#.YvpJNy7MK3B
