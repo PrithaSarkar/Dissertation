@@ -1,4 +1,5 @@
-Factors Affecting Pull-Request Acceptance and their Potential to Guide Contributors of Open-Source Software Repository.
+***Factors Affecting Pull-Request Acceptance and their Potential to Guide Contributors of Open-Source Software Repository.***
+
 -A dissertation presented in part fulfillment of the requirements of the Degree of Master of Science at the University of Glasgow.
 
 Data Availability Statement:
